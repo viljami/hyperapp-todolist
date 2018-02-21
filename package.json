@@ -1,6 +1,6 @@
 {
   "name": "hyperapp-todo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Todo list application with hyperapp - the react and redux alternative.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Viljami Peltola",
-  "license": "UNLICENCED",
+  "license": "MIT",
   "devDependencies": {
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-plugin-transform-react-jsx": "^6.24.1",
