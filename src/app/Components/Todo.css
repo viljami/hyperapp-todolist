@@ -1,0 +1,37 @@
+
+.todo {
+	list-style: none;
+	margin: 10px 0 20px 0;
+	padding: 10px 10px 30px 10px ;
+	position: relative;
+	border-radius: 4px;
+	min-height: 30px;
+}
+
+.todo.done {
+	background-color: #cccccc;
+}
+
+.todo button {
+	top: 10px;
+	position: absolute;
+}
+
+.todo .makeDone {
+	left: 10px;
+}
+
+.todo .remove {
+	right: 10px;
+}
+
+.todo p {
+	margin: 7px 0 0 40px;
+}
+
+.todo span {
+	font-size: 80%;
+	position: absolute;
+	bottom: 10px;
+	left: 50px;
+}

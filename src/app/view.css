@@ -1,0 +1,11 @@
+
+main {
+	padding: 30px;
+	min-height: 100%;
+}
+
+main .content {
+	max-width: 500px;
+	margin: 30px auto;
+	padding: 0;
+}

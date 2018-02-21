@@ -1,0 +1,21 @@
+{
+  "name": "hyperapp-todo",
+  "version": "0.0.0",
+  "description": "Todo list application with hyperapp - the react and redux alternative.",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viljami Peltola",
+  "license": "UNLICENCED",
+  "devDependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
+    "parcel-bundler": "^1.6.1"
+  },
+  "dependencies": {
+    "hyperapp": "^1.1.2"
+  }
+}
